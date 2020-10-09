@@ -6,5 +6,5 @@ Having your landing page sounds cool  - this is the code base for my dev-landing
 * Work Information 
 * Email 
 
-#### [WIP] Night Mode  
-  
+#### [WIP] Night Mode  https://joshuaschist.github.io/landing-page/
+
